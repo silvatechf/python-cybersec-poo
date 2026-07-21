@@ -14,6 +14,8 @@ file_handler = logging.FileHandler("audit.log", encoding="utf-8")
 file_handler.setFormatter(formatter)
 file_handler.setLevel(logging.INFO)
 
+# atencion en esta parte
+
 # Handler para o console (terminal)
 console_handler = logging.StreamHandler()
 console_handler.setFormatter(formatter)
