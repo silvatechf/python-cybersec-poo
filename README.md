@@ -1,4 +1,4 @@
-# Python Security & POO - Material de Estudos
+# Python Security & POO - Praticas recorrentes
 
 Este repositório contém uma suíte de ferramentas CLI desenvolvidas em Python para consolidação de conceitos de **Programação Orientada a Objetos (POO)** aplicados à automação de segurança defensiva e auditoria.
 
